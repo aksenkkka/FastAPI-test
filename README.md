@@ -1,6 +1,6 @@
 # FastAPI Test
 
-A FastAPI backend project for practicing a REST API with users, posts, authentication, and voting.
+A FastAPI backend project contains REST API with users, posts, authentication, and voting.
 
 The project implements a simple social-post API: users can register, log in, create posts, update or delete their own posts, and vote for posts. PostgreSQL is used for persistence, SQLAlchemy handles database models and sessions, and JWT bearer tokens protect the routes that require authentication.
 
